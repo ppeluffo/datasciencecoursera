@@ -1,3 +1,4 @@
 # datasciencecoursera
-## Linea de prueba
+## Repository for use in the "The Data Scientist's Toolbox"
+
 
